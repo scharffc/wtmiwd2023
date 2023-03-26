@@ -2,7 +2,7 @@
 
 # Agenda
 
-[https://docs.google.com/document/d/1QC7cuIBEOLhqyG95x_s_i7OIEPDUQz6lr4nxIH7oHnc/edit#heading=h.cdl466bbyr2j](Agenda)
+[Agenda](https://docs.google.com/document/d/1QC7cuIBEOLhqyG95x_s_i7OIEPDUQz6lr4nxIH7oHnc/edit#heading=h.cdl466bbyr2j)
 
 # Speakers
 
