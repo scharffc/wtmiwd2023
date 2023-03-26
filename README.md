@@ -1,10 +1,10 @@
 <img width="800" alt="registration WTM-IWD-2023-Bevy-2880x500" src="https://user-images.githubusercontent.com/761057/227758029-46847ca7-b732-4d94-9775-42b3a9f75c0c.png">
 
-## Agenda
+# Agenda
 
-[https://docs.google.com/document/d/1QC7cuIBEOLhqyG95x_s_i7OIEPDUQz6lr4nxIH7oHnc/edit#heading=h.cdl466bbyr2j][Agenda
+[https://docs.google.com/document/d/1QC7cuIBEOLhqyG95x_s_i7OIEPDUQz6lr4nxIH7oHnc/edit#heading=h.cdl466bbyr2j](Agenda)
 
-## Speakers
+# Speakers
 
 ![Peta-Gay Clarke Card](https://user-images.githubusercontent.com/761057/227758366-1441b5db-18bc-4100-b183-10f843e29ac8.jpg)
 
@@ -24,22 +24,22 @@
 
 ![Nishank Singhal Card](https://user-images.githubusercontent.com/761057/227758419-6fb96803-2155-4d22-bdaf-3107cef886d1.jpg)
 
-## Notebooks
+# Notebooks
 
 TBD
 
-## Slides
+# Slides
 
 TBD
 
-## ML Game
+# ML Game
 
 TBD
 
-## Pictures
+# Pictures
 
 TBD
 
-## Social Media
+# Social Media
 
 #IWD23 #WTMDareToB
