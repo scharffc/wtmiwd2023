@@ -26,11 +26,21 @@
 
 # Notebooks
 
-TBD
+[Fashion MNIST notebook](https://bit.ly/notebookfashion)
+
+[311 notebook](https://bit.ly/notebook311data)
 
 # Slides
 
-TBD
+Machine learning today
+
+Machine learning workshop
+
+Introduction to leveraging metrics for data science
+
+Applied AI: Overfitting versus Generalization
+
+Things I wish I knew when I started my Data Science Career
 
 # ML Game
 
