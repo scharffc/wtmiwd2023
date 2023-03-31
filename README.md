@@ -32,15 +32,15 @@
 
 # Slides
 
-Machine learning today
+[Machine learning today](https://bit.ly/3zkFfpN)
 
-Machine learning workshop
+[Machine learning workshop](https://bit.ly/iwdslidesworkshop)
 
-Introduction to leveraging metrics for data science
+[Introduction to leveraging metrics for data science](https://bit.ly/3JRSEus)
 
-Applied AI: Overfitting versus Generalization
+[Applied AI: Overfitting versus Generalization](https://bit.ly/42TSrQ8)
 
-Things I wish I knew when I started my Data Science Career
+[Things I wish I knew when I started my Data Science Career](https://bit.ly/40wHiDk)
 
 # ML Game
 
