@@ -48,7 +48,7 @@ The game ends at 2:30 pm.
 
 10 participants who submit the correct answers with the best times will win prizes. There are 10 questions.
 
-[TBD](https://bit.ly/iwdmlgame)
+[Access the quiz](https://bit.ly/iwdmlgame)
 
 # Pictures
 
