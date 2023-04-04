@@ -26,9 +26,9 @@
 
 # Notebooks
 
-[Fashion MNIST notebook](https://bit.ly/notebookfashion)
-
 [311 notebook](https://bit.ly/notebook311data)
+
+[Fashion MNIST notebook](https://bit.ly/notebookfashion)
 
 # Slides
 
