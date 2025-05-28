@@ -50,10 +50,6 @@ The game ends at 2:30 pm.
 
 [Access the quiz](https://bit.ly/iwdmlgame)
 
-# Pictures
-
-TBD
-
 # Social Media
 
 #IWD23 #WTMDareToBe
